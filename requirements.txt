@@ -1,1 +1,1 @@
-content of requirements.txt
+<content of requirements.txt>
